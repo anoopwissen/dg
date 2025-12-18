@@ -207,13 +207,6 @@ SECTIONS = {
     },
 }
 
-# =========================
-# MAIN (UNCHANGED)
-# =========================
-
-def main():
-    st.write("✅ App structure unchanged beyond new section. Run as-is.")
-
 if __name__ == "__main__":
     main()
 
